@@ -33,7 +33,7 @@
     "jdk.selected.JAVA_MODULE": "18"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainThreadDemo">
     <configuration name="DemoThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoThread" />
       <module name="multithreading" />
@@ -41,8 +41,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainThreadDemo" />
+      <module name="multithreading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainThreadDemo" />
         <item itemvalue="Application.DemoThread" />
       </list>
     </recent_temporary>
@@ -64,6 +72,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
