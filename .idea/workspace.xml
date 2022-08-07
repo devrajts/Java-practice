@@ -34,7 +34,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CopyFile">
+  <component name="RunManager" selected="Application.CharCount">
+    <configuration name="CharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharCount" />
+      <module name="FileIo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CopyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CopyFile" />
       <module name="FileIo" />
@@ -56,13 +63,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OtherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OtherMain" />
-      <module name="multithreading" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReadingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReadingMain" />
       <module name="FileIo" />
@@ -72,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharCount" />
         <item itemvalue="Application.CopyFile" />
         <item itemvalue="Application.ReadingMain" />
         <item itemvalue="Application.NewMain (1)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.OtherMain" />
       </list>
     </recent_temporary>
   </component>
