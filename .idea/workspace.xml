@@ -34,7 +34,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OtherMain">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharCount" />
       <module name="FileIo" />
@@ -49,9 +49,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewMain" />
-      <module name="FileIo" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="seriallization" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.OtherMain" />
         <item itemvalue="Application.CharCount" />
         <item itemvalue="Application.CopyFile" />
         <item itemvalue="Application.ReadingMain" />
-        <item itemvalue="Application.NewMain (1)" />
       </list>
     </recent_temporary>
   </component>
