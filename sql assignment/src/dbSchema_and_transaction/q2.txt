@@ -1,0 +1,13 @@
+2) Describe Transactions in sql with your own words.
+A transaction is an entity generally a group of SQL statements, or a combination of statements
+and stored procedure calls, which should be executed all or none.
+
+for example if a transaction has 4 statements s1 to s4 and for instance, s4 throws some error may be due to incorrect
+syntax or access or any functional issues, then the statements s1 to s3 would be rolled back and the database would
+reach its original state as if no statement got executed.
+
+there are four properties of mySQL transaction:
+1) Atomicity.
+2)Consistency.
+3)Isolation.
+4)Durability.
