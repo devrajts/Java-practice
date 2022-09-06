@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/FileIo/FileIo.iml" filepath="$PROJECT_DIR$/FileIo/FileIo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-practice.iml" filepath="$PROJECT_DIR$/.idea/Java-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/constructWeek_sql/constructWeek_sql.iml" filepath="$PROJECT_DIR$/constructWeek_sql/constructWeek_sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infy/infy.iml" filepath="$PROJECT_DIR$/infy/infy.iml" />
       <module fileurl="file://$PROJECT_DIR$/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/multithreading/multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/seriallization/seriallization.iml" filepath="$PROJECT_DIR$/seriallization/seriallization.iml" />
       <module fileurl="file://$PROJECT_DIR$/sql assignment/sql assignment.iml" filepath="$PROJECT_DIR$/sql assignment/sql assignment.iml" />
