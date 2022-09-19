@@ -38,16 +38,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NewFile">
-    <configuration name="CharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CharCount" />
-      <module name="FileIo" />
+  <component name="RunManager" selected="Application.Main1">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="seriallization" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main1" />
       <module name="seriallization" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main1" />
         <item itemvalue="Application.NewFile" />
         <item itemvalue="Application.sprint3_evaluation.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.OtherMain" />
-        <item itemvalue="Application.CharCount" />
       </list>
     </recent_temporary>
   </component>
